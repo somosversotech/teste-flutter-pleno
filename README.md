@@ -24,6 +24,8 @@ Requisitos adicionais:
 4.  Considere a possibilidade de tratamento de erros, como falhas na conexão com a API ou respostas inválidas.
     
 5.  Você pode utilizar qualquer pacote ou biblioteca do Flutter que achar necessário para ajudar na implementação do teste.
+
+6. O aplicativo deve utilizar gerenciamento de estado MobX.  
     
 
 Observações:
